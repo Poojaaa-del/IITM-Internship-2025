@@ -10,15 +10,15 @@
 This repository contains the **work completed during my 2025 research internship at IIT Madras**.  
 
 The project explored **time series modeling for heavy-tailed data**, focusing on:
-- 🔢 **α-stable distributions**  
-- ⚖️ **Classical and modified Yule-Walker methods** for parameter estimation  
-- 📈 Application to **network traffic data** to study real-world scenarios
+-  **α-stable distributions**  
+-  **Classical and modified Yule-Walker methods** for parameter estimation  
+-  Application to **network traffic data** to study real-world scenarios
 
 The notebooks here demonstrate code experiments, statistical analysis, and visualizations that were part of this internship.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 IITM-Internship-2025/
 
 │
@@ -32,7 +32,7 @@ IITM-Internship-2025/
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1️⃣ **Clone the repository:**
 ```bash
@@ -44,7 +44,7 @@ You can view it on GitHub directly,
 
 Or open it in Google Colab (click “Open in Colab” if you add that badge).
 
-## 📊 Dataset
+##  Dataset Overview
 The analysis in this project uses a **network traffic dataset** from Kaggle:  
 [👉 Network Traffic Data – Kaggle Link](https://www.kaggle.com/datasets/ravikumargattu/network-traffic-dataset)
 
@@ -60,7 +60,7 @@ drive.mount('/content/drive')
 
 Place the dataset in your Drive and update the path in the notebook code.
 
-## 🖼️ Graphs & Visualizations
+##  Graphs & Visualizations
 All key plots from the analysis are saved separately in the graphs/ folder for quick access.
 Here’s a preview of the outputs you’ll find:
 
@@ -70,12 +70,12 @@ Here’s a preview of the outputs you’ll find:
 
 (More graphs are inside the /Graphs folder.)
 
-## 🔍 Why This Repo Matters
-✅ Demonstrates statistical modeling on real network traffic data
+##  Why This Repo Matters
+- Demonstrates statistical modeling on real network traffic data
 
-✅ Explores α-stable models — important for heavy-tailed data like finance & internet traffic
+- Explores α-stable models — important for heavy-tailed data like finance & internet traffic
 
-✅ Provides clean notebooks and saved graphs for easy reference
+- Provides clean notebooks and saved graphs for easy reference
 
 ## ⚠️ Disclaimer
 This repository is intended for academic reference only.
